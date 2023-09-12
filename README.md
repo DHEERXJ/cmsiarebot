@@ -190,7 +190,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 DHEERAJ KRISHNA - [Click Here!](https://t.me/dheeraj2324) - dheerajdheeru64@gmail.com
 
-Project Link: [https://github.com/DHEERXJ/buildit](https://github.com/DHEERXJ/buildit)
+Project Link: [https://github.com/DHEERXJ/cmsiarebot](https://github.com/DHEERXJ/cmsiarebot)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
